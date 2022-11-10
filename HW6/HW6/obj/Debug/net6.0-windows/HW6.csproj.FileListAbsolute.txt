@@ -1,0 +1,17 @@
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.csproj.AssemblyReference.cache
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.Form1.resources
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.csproj.GenerateResource.cache
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.AssemblyInfoInputs.cache
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.AssemblyInfo.cs
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.csproj.CoreCompileInputs.cache
+C:\Users\loris\source\repos\HW6\HW6\bin\Debug\net6.0-windows\HW6.exe
+C:\Users\loris\source\repos\HW6\HW6\bin\Debug\net6.0-windows\HW6.deps.json
+C:\Users\loris\source\repos\HW6\HW6\bin\Debug\net6.0-windows\HW6.runtimeconfig.json
+C:\Users\loris\source\repos\HW6\HW6\bin\Debug\net6.0-windows\HW6.dll
+C:\Users\loris\source\repos\HW6\HW6\bin\Debug\net6.0-windows\HW6.pdb
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.dll
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\refint\HW6.dll
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.pdb
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\HW6.genruntimeconfig.cache
+C:\Users\loris\source\repos\HW6\HW6\obj\Debug\net6.0-windows\ref\HW6.dll
